@@ -12,7 +12,7 @@ public class Abstract_childclass extends Partial_Abstract {
 		v.bankinfo("HDFC");
 		v.bankinfo(123456789l);
 		v.bankinfo(12345);
-		System.out.println("Prakash sir is cute");
+		System.out.println("Prakash sir is ");
 	}
 	
 
